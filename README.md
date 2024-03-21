@@ -44,7 +44,7 @@ yarn build
 ## Архитектура 
 
 В приложении используется MVP-архитектура
-![![web-larek.png]](https://github.com/sonyaswan/web-larek-frontend/blob/main/web-larek.UML.png)
+![![web-larek.png]](https://github.com/Andreyshanorm/web-larek-frontend/blob/main/web-larek.png)
 
 
 ### Базовые классы

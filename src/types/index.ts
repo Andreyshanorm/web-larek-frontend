@@ -82,3 +82,23 @@ export interface IPage {
     catalog: HTMLElement[];
     locked: boolean;
   }
+
+export interface ISuccess {
+    total: number;
+}
+
+export interface ISuccessActions {
+    onClick: () => void;
+}
+
+export interface IModalData {
+    content: HTMLElement;
+}
+
+export interface ISuccess {
+    total: number;
+}
+
+export interface ISuccessActions {
+    onClick: () => void;
+}
